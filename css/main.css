@@ -2405,7 +2405,6 @@ html.no-csstransitions .hero-content {
  *
  * ------------------------------------------------------------------- */
 .s-about {
-  padding-bottom: 16rem;
   background-color: #ffffff;
   position: relative;
 }
@@ -2417,7 +2416,7 @@ html.no-csstransitions .hero-content {
 .s-about__section--profile {
   padding-top: 18rem;
   padding-bottom: 4rem;
-  min-height: 108rem;
+
   position: relative;
 }
 
