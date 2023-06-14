@@ -2029,8 +2029,8 @@ input::-moz-focus-inner {
   font-size: 7rem;
   font-weight: 400;
   line-height: 1.257;
-  padding-right: 3.2rem;
-  margin-top: 0;
+  padding-right: 4rem;
+  margin-top: 60;
   color: #c3baba;
   position: relative;
 }
